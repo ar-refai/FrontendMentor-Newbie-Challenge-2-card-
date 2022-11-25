@@ -1,2 +1,3 @@
-# FrontendMentor-Newbie-Challenge-2-card-
-HTML , CSS ,Flex Responsive ,Fancy Card and etc in this front end mentor challenge
+# Frontend Mentor - NFT preview card component
+
+![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
